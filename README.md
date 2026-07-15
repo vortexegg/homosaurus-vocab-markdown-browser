@@ -10,6 +10,9 @@ One complexity is that we want to retain hyperlinks between the controlled vocab
 
 ## Fields
 
+This is a suggested set of fields that will be retained and where the are placed in the resulting markdown file.
+
+```text
 Convert to file name:
 skos:prefLabel (@en only)
 
@@ -27,3 +30,4 @@ skos:narrower
 skos:related
 
 The URL is at the top of each item followed by "a skos:Concept;"
+```
