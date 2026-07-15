@@ -1,4 +1,4 @@
-# Homosaurus Vocab Markdown Browswer
+# Homosaurus Vocab Markdown Browser
 
 This is a Python notebook that converts the [Homosaurus v5 vocabulary](https://homosaurus.org/v5) into markdown files for browsing in an Obsidian vault.
 
