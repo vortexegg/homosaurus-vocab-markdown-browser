@@ -10,7 +10,7 @@ One complexity is that we want to retain hyperlinks between the controlled vocab
 
 ## Fields
 
-This is a suggested set of fields that will be retained and where the are placed in the resulting markdown file.
+This is a suggested set of fields that will be retained, and where they will be placed in the resulting markdown file.
 
 ```text
 Convert to file name:
