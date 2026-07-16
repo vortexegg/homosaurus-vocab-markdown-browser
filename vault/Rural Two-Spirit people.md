@@ -1,0 +1,35 @@
+---
+id: homoit0003380
+URL: https://homosaurus.org/v5/homoit0003380
+prefLabel fr: 
+status: 
+category: 
+---
+
+## Description (en)
+
+Two-Spirit people who are currently living in or consider themselves to be from agricultural or forested areas with low population densities.
+
+## Description (fr)
+
+==FILL IN==
+
+## altLabel (en)
+
+2S rural people
+
+## altLabel (fr)
+
+==FILL IN==
+
+## Relationships
+
+### Broader
+
+- [[Two-Spirit people]]
+
+### Related
+
+- [[Rural LGBTQ+ people]]
+
+## Comments

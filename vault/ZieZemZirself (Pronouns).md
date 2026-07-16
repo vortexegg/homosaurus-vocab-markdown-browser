@@ -1,0 +1,32 @@
+---
+id: homoit0001714
+URL: https://homosaurus.org/v5/homoit0001714
+prefLabel fr: 
+status: 
+category: 
+---
+
+## Description (en)
+
+A set of pronouns. Used in this manner: Zie went to the Homosaurus website. I watched zem browse the Homosaurus. Zie uses the Homosaurus zirself.
+
+## Description (fr)
+
+==FILL IN==
+
+## altLabel (en)
+
+Zie/Zem (Pronouns)
+
+## altLabel (fr)
+
+==FILL IN==
+
+## Relationships
+
+### Broader
+
+- [[Pronouns]]
+- [[Neopronouns]]
+
+## Comments

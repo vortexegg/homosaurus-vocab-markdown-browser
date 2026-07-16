@@ -2,6 +2,10 @@
 
 This is a Python notebook that converts the [Homosaurus v5 vocabulary](https://homosaurus.org/v5) into markdown files for browsing in an Obsidian vault.
 
+The purpose of this project is to provide information processing support for an ongoing
+translation project for adding French translations of the Homosaurus vocabulary.
+The output Obsidian vault files are formatted for the ends of facilitating that translation work.
+
 Input to the script is a [Turtle](https://en.wikipedia.org/wiki/Turtle_(syntax)) (Terse RDF Triple Language) .ttl file that uses a SKOS (Simple Knowledge Organization System Namespace Document) linked data vocabulary. The contents of the file is itself a data dictionary for a controlled vocabulary. Each element in the .ttl file corresponds to a Homosaurus vocabulary term and its associated metadata.
 
 The goal of this notebook is to read in the .ttl file and convert each of the vocab term elements into a markdown file with the file name taken from the English preferred name (`skos:prefLabel` tagged with `@en` suffix), certain of the metadata elements stored as yaml frontmatter elements (TBD), and the english description stored as the markdown file body (`rdfs:comment` tagged with `@en` suffix). Finally these will be emitted as markdown files in a folder that can be opened separately as an Obsidian vault, preprocessed so that it is ready to load.
